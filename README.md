@@ -29,7 +29,7 @@ Install via  [Sketch Runner](https://sketchrunner.com/) by searching for Iconina
 
 ### Method 3: Sketch Toolbox
 
-Using [Sketch Toolbox](http://sketchtoolbox.com/), search for 'Iconinator' and install. Doing so will enable you to automatically receive any updates to Fluid without having to manually do so.
+Using [Sketch Toolbox](http://sketchtoolbox.com/), search for 'Iconinator' and install. Doing so will enable you to automatically receive any updates to Iconinator without having to manually do so.
 
 ### Method 4: Manually
 
