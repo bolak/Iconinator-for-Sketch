@@ -13,7 +13,7 @@
     ]
   },
   "identifier" : "net.agisilaos.Iconinator",
-  "version" : "1.0",
+  "version" : "1.0.2",
   "description" : "Sketch plugin for generating set of app icon artwork for iOS",
   "authorEmail" : "agtsaraboulidis@gmail.com",
   "name" : "Iconinator"
